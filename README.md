@@ -1,2 +1,2 @@
 # dicee
-Basic website built using HTML,CSS,javascript.
+Basic website built using HTML,CSS and javascript.
